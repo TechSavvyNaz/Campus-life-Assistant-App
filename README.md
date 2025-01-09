@@ -27,6 +27,14 @@ Real time working app with persistant storage and API integration
  ## successful login 
  ![image](https://github.com/user-attachments/assets/1c10c239-def8-4cbb-b706-d67122ada2a4)
  
+##  Class Schedule Management
+
+![WhatsApp Image 2025-01-09 at 13 52 03_a8003f7e](https://github.com/user-attachments/assets/0565d051-a237-4b03-ae56-7f7f28a6a0ea)
+
+![WhatsApp Image 2025-01-09 at 13 53 44_e423ca71](https://github.com/user-attachments/assets/3434cf74-7b6e-41ac-97b4-a88ece684360)
+
+
+![WhatsApp Image 2025-01-09 at 13 53 50_a3f0b9fa](https://github.com/user-attachments/assets/bf45b961-3baf-474a-a476-23e767d2a074)
 
 
 
