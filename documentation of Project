@@ -1,0 +1,103 @@
+# Campus Life Assistant App
+
+This is the official repository for the **Campus Life Assistant App**, a mobile application designed to enhance student life by providing features such as class schedule management, assignment tracking, study group finder, and event notifications.
+
+---
+
+## **Project Overview**
+The app integrates advanced mobile development techniques, including Firebase authentication, local and cloud storage, and push notifications. Each phase of the project has been broken down into specific tasks to ensure incremental progress and effective feature implementation.
+
+---
+
+## **Task Breakdown**
+
+### **Phase 1: Setup and Firebase Integration**
+1. **Task 1: Repository Creation & Initial Commit**
+   - Created a new GitHub repository.
+   - Set up project structure with necessary files (`README.md`, `.gitignore`).
+   - **Status:** ✅ Completed  
+   - **Commit Message:** `Initial commit with project setup`
+
+2. **Task 2: Firebase Authentication Integration**
+   - Configured Firebase for user authentication.
+   - Implemented email/password authentication.
+   - **Status:** ✅ Completed  
+   - **Commit Message:** `Added Firebase Authentication (email/password login)`
+
+---
+
+### **Phase 2: Class Schedule Management & Local Storage**
+3. **Task 3: Class Schedule Management**
+   - Added functionality to create, edit, and delete class schedules.
+   - Synced data with Cloud Firestore.
+   - **Status:** ✅ Completed  
+   - **Commit Message:** `Implemented class schedule management with Firestore sync`
+
+4. **Task 4: Offline Storage Integration**
+   - Integrated SQFlite for offline data storage.
+   - Ensured offline access for schedules and events.
+   - **Status:** ✅ Completed  
+   - **Commit Message:** `Added SQFlite integration for offline schedule storage`
+
+---
+
+### **Phase 3: Event Notifications and Assignment Tracker**
+5. **Task 5: Event Notifications (FCM)**
+   - Implement Firebase Cloud Messaging (FCM) for event notifications.
+   - **Status:** ⏳ In Progress  
+   - **Planned Commit Message:** `Integrated Firebase Cloud Messaging for event notifications`
+
+6. **Task 6: Assignment Tracker & Deadline Reminders**
+   - Added an assignment tracker with deadline reminders using `flutter_local_notifications`.
+   - Synced assignment data with Firestore and SQFlite.
+   - **Status:** ✅ Completed  
+   - **Commit Message:** `Implemented assignment tracker and deadline reminders`
+
+---
+
+### **Phase 4: Study Group Finder and Feedback System**
+7. **Task 7: Study Group Finder**
+   - Added functionality to create, join, or leave study groups.
+   - Data stored in Firestore.
+   - **Status:** ✅ Completed  
+   - **Commit Message:** `Implemented study group finder with join/leave options`
+
+8. **Task 8: Feedback System**
+   - Plan to implement feedback functionality for rating courses and services.
+   - **Status:** ⏳ pending  
+   - **Planned Commit Message:** `Added feedback system for course and service ratings`
+
+---
+
+### **Phase 5: Final Integration, Testing, and Documentation**
+9. **Task 9: Final Integration & UI Enhancements**
+   - Plan to finalize feature integration and improve UI for better user experience.
+   - **Status:** ✅ Completed   
+   - **Planned Commit Message:** `Finalized app features and polished UI`
+
+10. **Task 10: Testing & Documentation**
+    - Plan to perform comprehensive testing and prepare the app's documentation.
+    - **Status:** ✅ Completed   
+    - **Planned Commit Message:** `Tested app thoroughly and added documentation`
+
+---
+
+
+- Submitting the `.apk` file is not possible due to its file size to get that email at - **Email:** nazishnaseer50@gmail.com
+
+
+---
+
+## **Contributing**
+For contributions or issues, please raise a pull request or open an issue in this repository.
+
+---
+
+## **Contact**
+If you have any questions or suggestions, feel free to reach out at:
+- **Email:** nazishnaseer50@gmail.com
+
+---
+
+## **Acknowledgments**
+Special thanks to ** Sir Muhammad Abdullah (Instructor)** for guidance and support .
