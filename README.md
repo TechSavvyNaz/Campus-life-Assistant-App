@@ -36,6 +36,21 @@ Real time working app with persistant storage and API integration
 
 ![WhatsApp Image 2025-01-09 at 13 53 50_a3f0b9fa](https://github.com/user-attachments/assets/bf45b961-3baf-474a-a476-23e767d2a074)
 
+## Assignment UI
+![image](https://github.com/user-attachments/assets/c5340a8a-1b3a-4b72-82b8-6a9278b9d03d)
+## Added Assignments 
+![image](https://github.com/user-attachments/assets/807c4fa3-5835-4f7f-92b3-3148a0f4a656)
+
+## Study Groups
+![image](https://github.com/user-attachments/assets/0062cec8-865b-4e53-a9ac-d51dd9daa423)
+
+## Success 
+![image](https://github.com/user-attachments/assets/4a1efa8c-0e85-4f3c-a28d-9a4a384c75be)
+
+
+
+
+
 
 
 
